@@ -1,4 +1,4 @@
 # DeepLearningImage
 
-# InceptionV3
+# InceptionV3 (GoogLeNet)
 use install tensorflow & keras
